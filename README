@@ -1,1 +1,5 @@
 This is a basic web server written by node js
+
+//run server
+1. node server.js
+2. open browser and set url: localhost:3000
